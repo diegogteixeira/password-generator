@@ -1,0 +1,3 @@
+- Ability to set password length
+- Add "copy-on-click"
+- Toggle "symbols" and "numbers" on/off

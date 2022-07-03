@@ -1,0 +1,96 @@
+body {
+  margin: 0;
+}
+
+#container {
+  width: 550px;
+  height: 550px;
+  margin: 0 auto;
+  background-color: #202b3c;
+}
+
+h1 {
+  margin: 0 0 10px 0;
+  padding: 118px 0 0 52px;
+  color: #ffffff;
+  font-family: "Karla", sans-serif;
+  font-weight: 800;
+  font-size: 40px;
+  font-style: normal;
+  line-height: 40px;
+  letter-spacing: -0.025em;
+}
+
+span {
+  color: #4adf86;
+}
+
+
+p {
+  margin-top: 10px;
+  margin-bottom: 51px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  font-style: normal;
+  line-height: 28px;
+  padding: 0 0 0 52px;
+  color: #d5d4d8;
+}
+
+button {
+  width: 223px;
+  height: 42px;
+  background-color: #10b981;
+  color: #ffffff;
+  margin: 0 0 35px 52px;
+  border: none;
+  border-radius: 6px;
+  padding: 9px 17px 9px 15px;
+  gap: 12px;
+  font-family: "Inter", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  font-style: normal;
+  line-height: 24px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+img[alt="lightning"] {
+  width: 14px;
+  height: 18px;
+}
+
+#passwords-container {
+  width: 446px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 0 auto;
+  border-top: 1px solid #2f3e53;
+  padding: 35px 0;
+}
+
+.pass-el {
+  box-sizing: border-box;
+  text-align: center;
+  width: 211px;
+  height: 39px;
+  background-color: #273549;
+  color: #55F991;
+  border-radius: 6px;
+  font-family: "Inter", sans-serif;
+  font-size: 16px;
+  line-height: 32px;
+  margin: 0 0 27px 0;
+  padding-top: 4px;
+}
+img[alt~="suspension points"] {
+  width: 20px;
+  height: 5px;
+}
+
+
